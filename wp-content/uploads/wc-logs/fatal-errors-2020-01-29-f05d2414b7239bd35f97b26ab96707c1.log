@@ -1,0 +1,9 @@
+2020-01-29T23:47:27+00:00 CRITICAL Uncaught Error: Call to undefined function is_bbpress() in C:\xampp2\htdocs\llh\wp-content\themes\esport\include\functions\core.php:1964
+Stack trace:
+#0 C:\xampp2\htdocs\llh\wp-content\themes\esport\archive.php(8): esport_archive_title()
+#1 C:\xampp2\htdocs\llh\wp-includes\template-loader.php(98): include('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\llh\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#3 C:\xampp2\htdocs\llh\index.php(17): require('C:\\xampp2\\htdoc...')
+#4 {main}
+  thrown en C:\xampp2\htdocs\llh\wp-content\themes\esport\include\functions\core.php en la línea 1964
+
